@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721659165199",
+    "project_id": "foodies-eccbc",
+    "storage_bucket": "foodies-eccbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721659165199:android:402200b6f14bafa395817a",
+        "android_client_info": {
+          "package_name": "com.codeJam.foodies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Ukb7f47x0wjkDn1cjyk7XQv3nLFBDAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
